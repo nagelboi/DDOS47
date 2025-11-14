@@ -25,6 +25,8 @@ The script is intended for learning purposes only and must not be used for unlaw
 ```bash
 git clone https://github.com/DotX-47/DDOS47.git
 cd DDOS47
+```
+
 ```bash
 pip install requests
 ```
@@ -51,7 +53,6 @@ Use ONLY on systems you own or have written permission to test.
 
 ## ⭐ If you like this project
 - Star the repo on GitHub
-- Share with fellow OSINT/cybersec folks
 - Suggest improvements via Issues / Pull Requests
 
 ---

